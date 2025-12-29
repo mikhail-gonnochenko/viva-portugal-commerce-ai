@@ -40,7 +40,7 @@ Raw image → market insight → product lineup → SEO listings → AI design p
 1️⃣ Raw Input (User Entry Point) 
 
 Initial artwork upload and analysis start.
-![Upload Design](screenshots/input.jpg)
+<img src="screenshots/input.jpg" width="600"/>
 
 A real product or artwork image is uploaded by the user.
 No preprocessing, no manual tagging, no preparation.
@@ -74,7 +74,8 @@ This replaces manual research across Etsy, Google Trends, and competitor listing
 3️⃣ Product Strategy Recommendations 
 
 Suggested POD products based on the design and market fit.
-![Product Recommendations](screenshots/product_recommendations.jpg) 
+<img src="screenshots/product_recommendations.jpg" width="600"/>
+
 
 Based on the niche and visual style, the AI recommends the most commercially viable product formats.
 
@@ -95,7 +96,7 @@ Each recommendation is tied to real marketplace behavior, not random suggestions
 4️⃣ SEO & Listing Generation (Multi-Platform) 
 
 Platform-specific SEO titles, tags, and descriptions.
-![SEO Output](screenshots/seo_output.jpg)
+<img src="screenshots/seo_output.jpg" width="600"/>
 
 The system generates ready-to-publish SEO metadata tailored for each platform.
 
@@ -128,7 +129,8 @@ No copywriting or formatting required.
 5️⃣ AI Prompt Reverse Engineering (Optional but Powerful) 
 
 Reverse-engineered AI prompts for scalable design creation.
-![Prompt Generator](screenshots/prompt_generator.jpg)
+<img src="screenshots/prompt_generator.jpg" width="600"/>
+
 
 The system analyzes the visual style and generates ready-to-use AI prompts for popular tools.
 
