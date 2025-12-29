@@ -56,7 +56,7 @@ Works with product photos or artwork images
 2️⃣ Market & Niche Analysis  
 
 AI identifies the niche, demand level, and commercial potential.
-![Market Analysis](screenshots/market_analysis.jpg)
+<img src="screenshots/market_analysis.jpg" width="600"/>
 
 The system automatically identifies the commercial niche and evaluates:
 
@@ -74,7 +74,7 @@ This replaces manual research across Etsy, Google Trends, and competitor listing
 3️⃣ Product Strategy Recommendations 
 
 Suggested POD products based on the design and market fit.
-![Product Recommendations](screenshots/product_recommendations.jpg)
+![Product Recommendations](screenshots/product_recommendations.jpg) 
 
 Based on the niche and visual style, the AI recommends the most commercially viable product formats.
 
