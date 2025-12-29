@@ -37,7 +37,10 @@ End-to-End Flow
 
 Raw image → market insight → product lineup → SEO listings → AI design prompts
 
-1️⃣ Raw Input (User Entry Point)
+1️⃣ Raw Input (User Entry Point) 
+
+Initial artwork upload and analysis start.
+![Upload Design](screenshots/input.jpg)
 
 A real product or artwork image is uploaded by the user.
 No preprocessing, no manual tagging, no preparation.
@@ -50,7 +53,10 @@ Designed for real seller workflows
 
 Works with product photos or artwork images
 
-2️⃣ Market & Niche Analysis
+2️⃣ Market & Niche Analysis  
+
+AI identifies the niche, demand level, and commercial potential.
+![Market Analysis](screenshots/market_analysis.jpg)
 
 The system automatically identifies the commercial niche and evaluates:
 
@@ -65,7 +71,10 @@ Relevant keyword trends
 Why it matters:
 This replaces manual research across Etsy, Google Trends, and competitor listings.
 
-3️⃣ Product Strategy Recommendations
+3️⃣ Product Strategy Recommendations 
+
+Suggested POD products based on the design and market fit.
+![Product Recommendations](screenshots/product_recommendations.jpg)
 
 Based on the niche and visual style, the AI recommends the most commercially viable product formats.
 
@@ -83,7 +92,10 @@ Home decor products
 
 Each recommendation is tied to real marketplace behavior, not random suggestions.
 
-4️⃣ SEO & Listing Generation (Multi-Platform)
+4️⃣ SEO & Listing Generation (Multi-Platform) 
+
+Platform-specific SEO titles, tags, and descriptions.
+![SEO Output](screenshots/seo_output.jpg)
 
 The system generates ready-to-publish SEO metadata tailored for each platform.
 
@@ -113,7 +125,10 @@ URL handles (where applicable)
 
 No copywriting or formatting required.
 
-5️⃣ AI Prompt Reverse Engineering (Optional but Powerful)
+5️⃣ AI Prompt Reverse Engineering (Optional but Powerful) 
+
+Reverse-engineered AI prompts for scalable design creation.
+![Prompt Generator](screenshots/prompt_generator.jpg)
 
 The system analyzes the visual style and generates ready-to-use AI prompts for popular tools.
 
